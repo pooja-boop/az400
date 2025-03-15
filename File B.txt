@@ -1,2 +1,5 @@
 This is file B
 I am making a change to this file 
+
+
+new changes are committed
