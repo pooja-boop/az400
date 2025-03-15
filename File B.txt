@@ -1,1 +1,5 @@
 This is file B
+
+
+
+new changes are made to file b.txt
